@@ -1,0 +1,13 @@
+laptop-hp-compaq
+laptop-asus
+laptop-acer
+laptop-lenovo
+laptop-dell
+laptop-msi
+laptop-apple-macbook
+laptop-itel
+laptop-gigabyte
+laptop-surface
+laptop-masstel
+laptop-lg
+laptop-singpc
